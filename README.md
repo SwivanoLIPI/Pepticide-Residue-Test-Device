@@ -1,5 +1,5 @@
 # Pepticide-Residue-Test-Device
-This Project is This project is fully sponsored by the Center for Agricultural Research and Development of the Ministry of Agriculture of the Republic of Indonesia. 
+This project is fully sponsored by the Center for Agricultural Research and Development of the Ministry of Agriculture of the Republic of Indonesia. 
 The aim of this project is to create a tool that detects the content of liquid waste quantitatively.
 To detect concentration of the liquid waste, some sensors is applied to read some physical phenomena such as conductivity, resistance, capacitance, Total solid dissolve material, and temperature. 
 This project is used raspberry pi and Arduino Uno R3 for data acqusition system. The raw data is collected by arduino and send to the raspberry pi by serial communication.
